@@ -11,4 +11,4 @@
  <li>USB Cable for Arduino</li>
 </ul>
 
-<img src="components_and_supplies.jpg" title="Components and Supplies" alt="components" width="300">
+
